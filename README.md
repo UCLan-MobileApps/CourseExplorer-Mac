@@ -1,7 +1,7 @@
 CourseExplorer-Mac
 ==================
 
-Open Source Project for the JISC XCRI Project - Deskrop App
+Open Source Project for the JISC XCRI Project - Desktop App
 
 UCLan 
 
